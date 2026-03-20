@@ -1,2 +1,3 @@
-# BlogcomDjango
-Este repositório foi criado para guardar os arquivos de um blog criado com Django no curso de Python do Otávio Miranda
+# Blog
+
+Este é o blog que foi criado no curso de Python de Luiz Otávio Miranda.
